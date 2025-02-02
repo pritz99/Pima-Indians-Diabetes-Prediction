@@ -84,7 +84,7 @@ For questions or suggestions, reach out via:
 
 GitHub: pritz99
 
-Email: your-adarsh9129926574
+Email: your-adarsh912992@gmail.com
 
 🔹 Contributions are welcome! Feel free to fork this repository and enhance the models.
 
